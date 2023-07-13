@@ -15,6 +15,6 @@ Banco de Dados MySQL
 Documentação swagger
 
 <h2>Ambiente de Desenvolvimento:</h2>
-Documentação Swagger - < a href="http://localhost:8080/swagger-ui/index.html#/produto-controller/cadastrar"></a>.
+Documentação Swagger - <a href="http://localhost:8080/swagger-ui/index.html#/produto-controller/cadastrar"></a>.
 <br>
 Documentação SpringDoc - http://localhost:8080/v3/api-docs
