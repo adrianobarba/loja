@@ -1,3 +1,4 @@
+![Screenshot_2](https://github.com/adrianobarba/loja/assets/54551460/d5dd2e0f-aa1b-425a-87f9-6dcff744cc3b)
 <h1>Projeto Ecommerce</h1>
 
 
