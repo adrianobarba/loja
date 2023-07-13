@@ -12,6 +12,7 @@ Bean Validation
 JPA
 Lombok
 Banco de Dados MySQL
+Postman ou Insomnia
 Documentação swagger
 
 <h2>Ambiente de Desenvolvimento:</h2>
